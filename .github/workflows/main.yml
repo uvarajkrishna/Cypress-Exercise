@@ -17,3 +17,8 @@ jobs:
         with:
           # Specify Browser since container image is compile with Firefox
           browser: chrome
+      - name: Publish Test Results
+        uses: EnricoMi/publish-unit-test-result-action@v1
+        if: always()
+        with:
+          files: cypress/results/*.xml
