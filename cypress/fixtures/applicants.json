@@ -1,0 +1,21 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "John.Doe@gmail.com",
+  "phone": "5128290600",
+  "streetAddress": "6850 Austin Center Blvd",
+  "city": "Austin",
+  "state": "TX",
+  "zip": "787731",
+  "resumeFile": "SDET-Resume.pdf",
+  "dateAvailable": "10/20/2021",
+  "desiredPay": "150000",
+  "websiteUrl": "https://iodinesoftware.com/",
+  "linkedinUrl": "https://www.linkedin.com/company/iodine-software/",
+  "educationLevel": "College - Bachelor of Science",
+  "referredBy": "Apiary Technology",
+  "legallyAuthorized": "Yes",
+  "requireSponsorship": "No",
+  "gpa": "6.63",
+  "howDidYouHear": "Recruiter"
+}

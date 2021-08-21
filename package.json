@@ -1,0 +1,15 @@
+{
+  "name": "cypress-exercise",
+  "version": "1.0.0",
+  "description": "Exercise project to demonstrate usage of Cypress js for end to end test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Uvaraj Krishnaswamy",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
