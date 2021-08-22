@@ -30,5 +30,5 @@ cd <projectlocation>
 npm install  
 npm test
 ```
-To run via GitHub Actions, goto [Actions](actions/workflows/main.yml) and click RunWorkflow
+To run via GitHub Actions, goto [Actions](/actions/workflows/main.yml) and click RunWorkflow
 
