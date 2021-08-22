@@ -26,5 +26,5 @@ To run in local, clone the project and execute
 npm install  
 npm test
 ```
-To run via GitHub Actions, goto [Actions] and click RunWorkflow
+To run via GitHub Actions, goto [Actions](actions/workflows/main.yml) and click RunWorkflow
 
