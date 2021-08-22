@@ -24,8 +24,9 @@ Test Data - [applicants.json](cypress/fixtures/applicants.json)
 
 ### Usage
 
-To run in local, clone the project and execute
+To run in local
 ```
+cd <projectlocation>
 npm install  
 npm test
 ```
