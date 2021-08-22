@@ -16,7 +16,7 @@ Validate the Job title in returning page
 
 ### Artifacts
 
-Test - [iodine-careers.spec.js](cypress/integration/iodine-careers.spec.js)
+Test - [iodine-careers.spec.js](cypress/integration/iodine-careers.spec.js)  
 Test Data - [applicants.json](cypress/fixtures/applicants.json)
 
 ### Usage
