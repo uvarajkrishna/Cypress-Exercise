@@ -4,6 +4,9 @@
 
 ## Sample exercise project using Cypress js for automating a web application.
 
+## Decription
+The project is developed to demonstrate test automation of below scenario using Cypressjs. The scenario is automated, cypress is configured to generate junit reports along side spec reports and GitHub action is [defined in .github/workflows/main.yml](.github/workflows/main.yml) to execute test on a cypress containers and publish the junit results from the execution to GitHub actions. 
+
 ### Scenario
 
 Open Iodine Software website  
