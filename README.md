@@ -24,11 +24,15 @@ Test Data - [applicants.json](cypress/fixtures/applicants.json)
 
 ### Usage
 
-To run in local
+#### To run in local
 ```
 cd <projectlocation>
 npm install  
 npm test
 ```
-To run via GitHub Actions, goto [Actions](https://github.com/uvarajkrishna/Cypress-Exercise/actions/workflows/main.yml) and click RunWorkflow
+#### To run via GitHub Actions, 
+**Fork** the project  
+Go to **Actions**  
+Select **Cypress Tests using Cypress Docker Image** workflow  
+Click **RunWorkflow**
 
